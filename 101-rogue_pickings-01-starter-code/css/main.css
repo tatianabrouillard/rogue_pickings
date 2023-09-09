@@ -1,0 +1,229 @@
+/******** GLOBAL STYLES ********/
+body {
+    font-family: 'Montserrat', 'Helvetica','Arial', sans-serif;
+font-size:16px;
+
+color:#000000;
+    
+    
+
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
+
+h1 {
+    font-size: 30px;
+    padding:25px 0px;
+
+}
+
+h2 {
+    font-size:24px;
+
+    
+
+}
+
+h3 {
+    font-size:20px;
+
+
+}
+
+h4 {
+    font-size:12px;
+
+}
+
+p {
+    
+    line-height:36px;
+
+}
+
+.content-wrapper {
+    width:1200px;
+    margin:0 auto ;
+    overflow: auto;
+
+}
+
+/******** HEADER STYLES ********/
+header h1 {
+   
+    width: 300px;
+    float:left;
+    margin:0;
+    padding:36px 0;
+
+
+}
+
+header h1 span {
+    color:#45610E;
+
+}
+
+header nav {
+   
+    width: 300px;
+    float: right;
+    padding: 44px 0px;
+    
+
+}
+
+header nav ul {
+    padding:0;
+    margin:0;
+    text-align: right;
+    
+
+}
+
+header nav ul li {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding:0 10px;
+
+
+}
+
+header nav ul li a {
+     text-decoration:none ;
+     color:#45610E;
+     
+
+
+}
+
+/********  MAIN STYLES ********/
+/******** TOP SECTION ********/
+.main-image img {
+
+    border-top:3px solid #77A466;
+    border-bottom: 3px solid #77A466;
+}
+
+.main-title h2 {
+    color:#45610E;
+    font-size: 24px;
+    font-weight: 700;
+    padding:5px 0px ;
+
+}
+
+/******** BOTTOM SECTION ********/
+.bottom-section .content-wrapper {
+
+    border-top:5px solid #EEE ;
+    border-bottom:5px solid #EEE;
+
+
+}
+
+.section-one,
+.section-two,
+.section-three {
+   
+    box-sizing: border-box;
+    float: left;
+    
+    
+    
+    
+    
+
+}
+
+.section-one {
+    width: 350px;
+    color: #45610E;
+    
+
+    
+    
+}
+
+
+
+.section-two {
+    width:500px;
+    border-right:5px solid #EEE ;
+    border-left:5px solid #EEE ;
+    padding-left: 40px;
+ }
+    
+
+    
+
+
+
+.section-three {
+    width: 350px;
+    padding-left: 40px;
+
+
+}
+
+.bottom-section h3 {
+    margin: 30px 0px;
+    
+    
+    
+
+}
+
+.section-one h3{
+
+    padding-left: 40px;
+}
+
+
+
+.menu-list {
+
+    padding-left:0px;
+    
+
+}
+
+li{ 
+    line-height: 36px;
+    list-style:none;
+    
+    
+ }
+
+    
+
+
+
+
+
+/******** FOOTER STYLES ********/
+footer {
+    text-align: center;
+    padding-top:10px;
+
+
+
+}
+
+footer span {
+    font-family: 'Galada', cursive;
+    font-size: 14px;
+    color:#45610E;
+    font-size:14px;
+
+
+}
